@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**huangguasky/huangguasky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm huangguasky
 
-Here are some ideas to get you started:
+Java backend developer focused on high-performance services, distributed systems, and engineering efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Backend:** Java,Python,Rust
+**Database:** MySQL, Redis  
+**Middleware:** RocketMQ  
+**DevOps:** Jenkins, Spinnaker  
+**Frontend:** Vue  
+
+## Featured Projects
+
+### [secret-hub](https://github.com/huangguasky/secret-hub)
+
+A personal project focused on secret/configuration management.
+
+### [spring-boot-awesome-tools](https://github.com/huangguasky/spring-boot-awesome-tools)
+
+A collection of Spring Boot tools and practical backend development utilities.
+
+## Contact
+
+- Email: 358012348@qq.com
