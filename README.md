@@ -17,11 +17,11 @@ Java backend developer focused on high-performance services, distributed systems
 
 ### [secret-hub](https://github.com/huangguasky/secret-hub)
 
-A personal project focused on secret/configuration management.
+A personal project focused on secret/TOTP/configuration management.
 
 ### [spring-boot-awesome-tools](https://github.com/huangguasky/spring-boot-awesome-tools)
 
-A collection of Spring Boot tools and practical backend development utilities.
+A collection of annotation-driven Spring Boot tools designed for plug-and-play backend development.
 
 ## Contact
 
