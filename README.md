@@ -6,7 +6,7 @@ Java backend developer focused on high-performance services, distributed systems
 
 ## Tech Stack
 
-**Backend:** Java,Python,Rust
+**Backend:** Java,Python,Rust  
 **Database:** MySQL, Redis  
 **Middleware:** RocketMQ  
 **DevOps:** Jenkins, Spinnaker  
